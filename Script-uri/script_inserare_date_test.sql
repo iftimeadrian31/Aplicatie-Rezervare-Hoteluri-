@@ -1,0 +1,44 @@
+insert into Continut_Minibar values(NULL,5,3,2,1,1);
+insert into Continut_Minibar values(NULL,5,3,2,1,1);
+insert into Continut_Minibar values(NULL,5,3,2,1,1);
+insert into Continut_Minibar values(NULL,5,3,2,1,1);
+insert into Continut_Minibar values(NULL,5,3,2,1,1);
+insert into Continut_Minibar values(NULL,5,3,2,1,1);
+insert into Continut_Minibar values(NULL,7,4,3,2,1);
+insert into Continut_Minibar values(NULL,7,4,3,2,1);
+insert into Continut_Minibar values(NULL,7,4,3,2,1);
+insert into Continut_Minibar values(NULL,7,4,3,2,1);
+insert into Continut_Minibar values(NULL,7,4,3,2,1);
+insert into Continut_Minibar values(NULL,7,4,3,2,1);
+insert into Continut_Minibar values(NULL,7,4,3,2,0);
+insert into Continut_Minibar values(NULL,7,4,3,2,0);
+insert into Continut_Minibar values(NULL,7,4,3,2,0);
+insert into Continut_Minibar values(NULL,7,4,3,2,0);
+insert into Continut_Minibar values(NULL,7,4,3,2,0);
+insert into Continut_Minibar values(NULL,7,4,3,2,0);
+insert into Continut_Minibar values(NULL,7,4,3,2,0);
+insert into Continut_Minibar values(NULL,7,4,3,2,0);
+insert into Continut_Minibar values(NULL,7,4,3,2,0);
+insert into Continut_Minibar values(NULL,7,4,3,2,0);
+insert into Continut_Minibar values(NULL,7,4,3,2,0);
+insert into Continut_Minibar values(NULL,7,4,3,2,0);
+
+insert into Camere values(NULL,'Single',150,1,0);
+insert into Camere values(NULL,'Single',150,2,0);
+insert into Camere values(NULL,'Single',150,3,0);
+insert into Camere values(NULL,'Single',150,4,0);
+insert into Camere values(NULL,'Single',150,5,0);
+insert into Camere values(NULL,'Single',150,6,0);
+insert into Camere values(NULL,'Doublex',250,7,0);
+insert into Camere values(NULL,'Doublex',250,8,0);
+insert into Camere values(NULL,'Doublex',250,9,0);
+insert into Camere values(NULL,'Doublex',250,10,0);
+insert into Camere values(NULL,'Doublex',250,11,0);
+insert into Camere values(NULL,'Doublex',250,12,0);
+
+insert into Angajati values(NULL,'rec','t2maHK2YAY9gNW67Xiipa0QT8Ys=', 0,'Receptionist');
+insert into Angajati values(NULL,'cam','tBM8NrbYk9CHLMCeh7U20Wqi0kE=', 1, 'Camerist');
+insert into Angajati values(NULL,'admin','0DPiKuNIrrVmD8IUCuw1hQxNqZc=', -1, 'Administrator');
+
+insert into Niveluri values('Receptionist');
+insert into Niveluri values('Camerist');

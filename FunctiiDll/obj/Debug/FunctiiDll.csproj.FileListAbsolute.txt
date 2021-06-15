@@ -1,0 +1,6 @@
+C:\Users\JOHN\Desktop\Proiect IP\FunctiiDll\bin\Debug\FunctiiDll.dll
+C:\Users\JOHN\Desktop\Proiect IP\FunctiiDll\bin\Debug\FunctiiDll.pdb
+C:\Users\JOHN\Desktop\Proiect IP\FunctiiDll\obj\Debug\FunctiiDll.csproj.AssemblyReference.cache
+C:\Users\JOHN\Desktop\Proiect IP\FunctiiDll\obj\Debug\FunctiiDll.csproj.CoreCompileInputs.cache
+C:\Users\JOHN\Desktop\Proiect IP\FunctiiDll\obj\Debug\FunctiiDll.dll
+C:\Users\JOHN\Desktop\Proiect IP\FunctiiDll\obj\Debug\FunctiiDll.pdb

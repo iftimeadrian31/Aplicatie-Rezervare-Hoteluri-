@@ -1,0 +1,53 @@
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\Angajat\obj\Debug\Angajat.csprojAssemblyReference.cache
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\Angajat\obj\Debug\Angajat.csproj.CoreCompileInputs.cache
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\Angajat\bin\Debug\Angajat.dll
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\Angajat\bin\Debug\Angajat.pdb
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\Angajat\bin\Debug\Cryptography.dll
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\Angajat\bin\Debug\ProiectIP.exe
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\Angajat\bin\Debug\FunctiiDll.dll
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\Angajat\bin\Debug\ProiectIP.pdb
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\Angajat\bin\Debug\ProiectIP.exe.config
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\Angajat\bin\Debug\Cryptography.pdb
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\Angajat\bin\Debug\FunctiiDll.pdb
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\Angajat\obj\Debug\Angajat.csproj.CopyComplete
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\Angajat\obj\Debug\Angajat.dll
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\Angajat\obj\Debug\Angajat.pdb
+C:\Users\JOHN\Desktop\Proiect IP\Angajat\bin\Debug\Angajat.dll
+C:\Users\JOHN\Desktop\Proiect IP\Angajat\bin\Debug\Angajat.pdb
+C:\Users\JOHN\Desktop\Proiect IP\Angajat\bin\Debug\ProiectIP.exe
+C:\Users\JOHN\Desktop\Proiect IP\Angajat\bin\Debug\FunctiiDll.dll
+C:\Users\JOHN\Desktop\Proiect IP\Angajat\bin\Debug\ProiectIP.pdb
+C:\Users\JOHN\Desktop\Proiect IP\Angajat\bin\Debug\ProiectIP.exe.config
+C:\Users\JOHN\Desktop\Proiect IP\Angajat\bin\Debug\Cryptography.pdb
+C:\Users\JOHN\Desktop\Proiect IP\Angajat\bin\Debug\FunctiiDll.pdb
+C:\Users\JOHN\Desktop\Proiect IP\Angajat\obj\Debug\Angajat.csproj.AssemblyReference.cache
+C:\Users\JOHN\Desktop\Proiect IP\Angajat\obj\Debug\Angajat.csproj.CoreCompileInputs.cache
+C:\Users\JOHN\Desktop\Proiect IP\Angajat\obj\Debug\Angajat.csproj.CopyComplete
+C:\Users\JOHN\Desktop\Proiect IP\Angajat\obj\Debug\Angajat.dll
+C:\Users\JOHN\Desktop\Proiect IP\Angajat\obj\Debug\Angajat.pdb
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\Angajat\bin\Debug\Angajat.dll
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\Angajat\bin\Debug\Angajat.pdb
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\Angajat\bin\Debug\FunctiiDll.dll
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\Angajat\bin\Debug\ProiectIP.exe
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\Angajat\bin\Debug\ProiectIP.pdb
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\Angajat\bin\Debug\ProiectIP.exe.config
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\Angajat\bin\Debug\Cryptography.pdb
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\Angajat\bin\Debug\FunctiiDll.pdb
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\Angajat\obj\Debug\Angajat.csprojAssemblyReference.cache
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\Angajat\obj\Debug\Angajat.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\Angajat\obj\Debug\Angajat.csproj.CopyComplete
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\Angajat\obj\Debug\Angajat.dll
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\Angajat\obj\Debug\Angajat.pdb
+D:\downloads\final\Angajat\bin\Debug\Angajat.dll
+D:\downloads\final\Angajat\bin\Debug\Angajat.pdb
+D:\downloads\final\Angajat\bin\Debug\FunctiiDll.dll
+D:\downloads\final\Angajat\bin\Debug\ProiectIP.exe
+D:\downloads\final\Angajat\bin\Debug\ProiectIP.pdb
+D:\downloads\final\Angajat\bin\Debug\ProiectIP.exe.config
+D:\downloads\final\Angajat\bin\Debug\Cryptography.pdb
+D:\downloads\final\Angajat\bin\Debug\FunctiiDll.pdb
+D:\downloads\final\Angajat\obj\Debug\Angajat.csprojAssemblyReference.cache
+D:\downloads\final\Angajat\obj\Debug\Angajat.csproj.CoreCompileInputs.cache
+D:\downloads\final\Angajat\obj\Debug\Angajat.csproj.CopyComplete
+D:\downloads\final\Angajat\obj\Debug\Angajat.dll
+D:\downloads\final\Angajat\obj\Debug\Angajat.pdb

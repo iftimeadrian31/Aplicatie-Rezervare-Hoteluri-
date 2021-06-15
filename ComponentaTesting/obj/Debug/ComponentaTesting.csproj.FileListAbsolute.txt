@@ -1,0 +1,115 @@
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ComponentaTesting\bin\Debug\ComponentaTesting.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ComponentaTesting\bin\Debug\ComponentaTesting.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ComponentaTesting\bin\Debug\ProiectIP.exe
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ComponentaTesting\bin\Debug\Angajat.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ComponentaTesting\bin\Debug\FunctiiDll.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ComponentaTesting\bin\Debug\Cryptography.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ComponentaTesting\bin\Debug\ProiectIP.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ComponentaTesting\bin\Debug\ProiectIP.exe.config
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ComponentaTesting\bin\Debug\Angajat.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ComponentaTesting\bin\Debug\FunctiiDll.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ComponentaTesting\bin\Debug\Cryptography.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ComponentaTesting\obj\Debug\ComponentaTesting.csprojAssemblyReference.cache
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ComponentaTesting\obj\Debug\ComponentaTesting.csproj.CoreCompileInputs.cache
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ComponentaTesting\obj\Debug\ComponentaTesting.csproj.CopyComplete
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ComponentaTesting\obj\Debug\ComponentaTesting.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ComponentaTesting\obj\Debug\ComponentaTesting.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ComponentaTesting\bin\Debug\ComponentaTesting.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ComponentaTesting\bin\Debug\ComponentaTesting.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ComponentaTesting\bin\Debug\FunctiiDll.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ComponentaTesting\bin\Debug\ProiectIP.exe
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ComponentaTesting\bin\Debug\Angajat.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ComponentaTesting\bin\Debug\Cryptography.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ComponentaTesting\bin\Debug\FunctiiDll.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ComponentaTesting\bin\Debug\ProiectIP.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ComponentaTesting\bin\Debug\ProiectIP.exe.config
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ComponentaTesting\bin\Debug\Angajat.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ComponentaTesting\bin\Debug\Cryptography.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ComponentaTesting\obj\Debug\ComponentaTesting.csprojAssemblyReference.cache
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ComponentaTesting\obj\Debug\ComponentaTesting.csproj.CoreCompileInputs.cache
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ComponentaTesting\obj\Debug\ComponentaTesting.csproj.CopyComplete
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ComponentaTesting\obj\Debug\ComponentaTesting.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ComponentaTesting\obj\Debug\ComponentaTesting.pdb
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ComponentaTesting\bin\Debug\ComponentaTesting.dll
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ComponentaTesting\bin\Debug\ComponentaTesting.pdb
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ComponentaTesting\bin\Debug\FunctiiDll.dll
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ComponentaTesting\bin\Debug\ProiectIP.exe
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ComponentaTesting\bin\Debug\Angajat.dll
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ComponentaTesting\bin\Debug\Cryptography.dll
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ComponentaTesting\bin\Debug\FunctiiDll.pdb
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ComponentaTesting\bin\Debug\ProiectIP.pdb
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ComponentaTesting\bin\Debug\ProiectIP.exe.config
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ComponentaTesting\bin\Debug\Angajat.pdb
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ComponentaTesting\bin\Debug\Cryptography.pdb
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ComponentaTesting\obj\Debug\ComponentaTesting.csprojAssemblyReference.cache
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ComponentaTesting\obj\Debug\ComponentaTesting.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ComponentaTesting\obj\Debug\ComponentaTesting.csproj.CopyComplete
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ComponentaTesting\obj\Debug\ComponentaTesting.dll
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ComponentaTesting\obj\Debug\ComponentaTesting.pdb
+D:\downloads\final\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\downloads\final\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\downloads\final\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\downloads\final\ComponentaTesting\bin\Debug\ComponentaTesting.dll
+D:\downloads\final\ComponentaTesting\bin\Debug\ComponentaTesting.pdb
+D:\downloads\final\ComponentaTesting\bin\Debug\FunctiiDll.dll
+D:\downloads\final\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\downloads\final\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\downloads\final\ComponentaTesting\bin\Debug\ProiectIP.exe
+D:\downloads\final\ComponentaTesting\bin\Debug\Angajat.dll
+D:\downloads\final\ComponentaTesting\bin\Debug\Cryptography.dll
+D:\downloads\final\ComponentaTesting\bin\Debug\FunctiiDll.pdb
+D:\downloads\final\ComponentaTesting\bin\Debug\ProiectIP.pdb
+D:\downloads\final\ComponentaTesting\bin\Debug\ProiectIP.exe.config
+D:\downloads\final\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\downloads\final\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\downloads\final\ComponentaTesting\bin\Debug\Angajat.pdb
+D:\downloads\final\ComponentaTesting\bin\Debug\Cryptography.pdb
+D:\downloads\final\ComponentaTesting\obj\Debug\ComponentaTesting.csprojAssemblyReference.cache
+D:\downloads\final\ComponentaTesting\obj\Debug\ComponentaTesting.csproj.CoreCompileInputs.cache
+D:\downloads\final\ComponentaTesting\obj\Debug\ComponentaTesting.csproj.CopyComplete
+D:\downloads\final\ComponentaTesting\obj\Debug\ComponentaTesting.dll
+D:\downloads\final\ComponentaTesting\obj\Debug\ComponentaTesting.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ComponentaTesting\bin\Debug\ComponentaTesting.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ComponentaTesting\bin\Debug\ComponentaTesting.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ComponentaTesting\bin\Debug\FunctiiDll.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ComponentaTesting\bin\Debug\ProiectIP.exe
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ComponentaTesting\bin\Debug\Angajat.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ComponentaTesting\bin\Debug\Cryptography.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ComponentaTesting\bin\Debug\FunctiiDll.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ComponentaTesting\bin\Debug\ProiectIP.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ComponentaTesting\bin\Debug\ProiectIP.exe.config
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ComponentaTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ComponentaTesting\bin\Debug\Angajat.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ComponentaTesting\bin\Debug\Cryptography.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ComponentaTesting\obj\Debug\ComponentaTesting.csprojAssemblyReference.cache
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ComponentaTesting\obj\Debug\ComponentaTesting.csproj.CoreCompileInputs.cache
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ComponentaTesting\obj\Debug\ComponentaTesting.csproj.CopyComplete
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ComponentaTesting\obj\Debug\ComponentaTesting.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ComponentaTesting\obj\Debug\ComponentaTesting.pdb

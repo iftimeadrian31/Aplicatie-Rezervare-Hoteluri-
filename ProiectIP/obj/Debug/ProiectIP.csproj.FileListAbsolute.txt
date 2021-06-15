@@ -1,0 +1,315 @@
+C:\Users\Cami\OneDrive\Desktop\ProiectIP\ProiectIP\bin\Debug\ProiectIP.exe.config
+C:\Users\Cami\OneDrive\Desktop\ProiectIP\ProiectIP\bin\Debug\ProiectIP.exe
+C:\Users\Cami\OneDrive\Desktop\ProiectIP\ProiectIP\bin\Debug\ProiectIP.pdb
+C:\Users\Cami\OneDrive\Desktop\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+C:\Users\Cami\OneDrive\Desktop\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+C:\Users\Cami\OneDrive\Desktop\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+C:\Users\Cami\OneDrive\Desktop\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+C:\Users\Cami\OneDrive\Desktop\ProiectIP\ProiectIP\obj\Debug\ProiectIP.exe
+C:\Users\Cami\OneDrive\Desktop\ProiectIP\ProiectIP\obj\Debug\ProiectIP.pdb
+C:\Users\Cami\OneDrive\Desktop\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Admin.resources
+C:\Users\Cami\OneDrive\Desktop\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Camerista.resources
+C:\Users\Cami\OneDrive\Desktop\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Acasa.resources
+C:\Users\Cami\OneDrive\Desktop\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Receptionera.resources
+C:\Users\Adi-PC\Desktop\ProiectIP\ProiectIP\bin\Debug\ProiectIP.exe.config
+C:\Users\Adi-PC\Desktop\ProiectIP\ProiectIP\bin\Debug\ProiectIP.exe
+C:\Users\Adi-PC\Desktop\ProiectIP\ProiectIP\bin\Debug\ProiectIP.pdb
+C:\Users\Adi-PC\Desktop\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+C:\Users\Adi-PC\Desktop\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Camerista.resources
+C:\Users\Adi-PC\Desktop\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Acasa.resources
+C:\Users\Adi-PC\Desktop\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Admin.resources
+C:\Users\Adi-PC\Desktop\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+C:\Users\Adi-PC\Desktop\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Receptionera.resources
+C:\Users\Adi-PC\Desktop\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+C:\Users\Adi-PC\Desktop\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+C:\Users\Adi-PC\Desktop\ProiectIP\ProiectIP\obj\Debug\ProiectIP.exe
+C:\Users\Adi-PC\Desktop\ProiectIP\ProiectIP\obj\Debug\ProiectIP.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Camerista.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Acasa.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Admin.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Receptionera.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIP\ProiectIP\obj\Debug\ProiectIP.exe
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIP\ProiectIP\obj\Debug\ProiectIP.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIP\ProiectIP\bin\Debug\ProiectIP.exe.config
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIP\ProiectIP\bin\Debug\ProiectIP.exe
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIP\ProiectIP\bin\Debug\ProiectIP.pdb
+C:\Users\malin\Desktop\iftime\ProiectIP\ProiectIP\bin\Debug\ProiectIP.exe.config
+C:\Users\malin\Desktop\iftime\ProiectIP\ProiectIP\bin\Debug\ProiectIP.exe
+C:\Users\malin\Desktop\iftime\ProiectIP\ProiectIP\bin\Debug\ProiectIP.pdb
+C:\Users\malin\Desktop\iftime\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+C:\Users\malin\Desktop\iftime\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Camerista.resources
+C:\Users\malin\Desktop\iftime\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Acasa.resources
+C:\Users\malin\Desktop\iftime\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Admin.resources
+C:\Users\malin\Desktop\iftime\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+C:\Users\malin\Desktop\iftime\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Receptionera.resources
+C:\Users\malin\Desktop\iftime\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+C:\Users\malin\Desktop\iftime\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+C:\Users\malin\Desktop\iftime\ProiectIP\ProiectIP\obj\Debug\ProiectIP.exe
+C:\Users\malin\Desktop\iftime\ProiectIP\ProiectIP\obj\Debug\ProiectIP.pdb
+D:\ProiectIP\ProiectIP\bin\Debug\ProiectIP.exe.config
+D:\ProiectIP\ProiectIP\bin\Debug\ProiectIP.exe
+D:\ProiectIP\ProiectIP\bin\Debug\ProiectIP.pdb
+D:\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+D:\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Camerista.resources
+D:\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Acasa.resources
+D:\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Admin.resources
+D:\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+D:\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Receptionera.resources
+D:\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+D:\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+D:\ProiectIP\ProiectIP\obj\Debug\ProiectIP.exe
+D:\ProiectIP\ProiectIP\obj\Debug\ProiectIP.pdb
+C:\Users\Cami\OneDrive\Desktop\receptionist+admin\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+C:\Users\Cami\OneDrive\Desktop\receptionist+admin\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Camerista.resources
+C:\Users\Cami\OneDrive\Desktop\receptionist+admin\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Acasa.resources
+C:\Users\Cami\OneDrive\Desktop\receptionist+admin\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Admin.resources
+C:\Users\Cami\OneDrive\Desktop\receptionist+admin\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+C:\Users\Cami\OneDrive\Desktop\receptionist+admin\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Receptionera.resources
+C:\Users\Cami\OneDrive\Desktop\receptionist+admin\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+C:\Users\Cami\OneDrive\Desktop\receptionist+admin\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+C:\Users\Cami\OneDrive\Desktop\receptionist+admin\ProiectIP\ProiectIP\obj\Debug\ProiectIP.exe
+C:\Users\Cami\OneDrive\Desktop\receptionist+admin\ProiectIP\ProiectIP\obj\Debug\ProiectIP.pdb
+C:\Users\Cami\OneDrive\Desktop\receptionist+admin\ProiectIP\ProiectIP\bin\Debug\ProiectIP.exe.config
+C:\Users\Cami\OneDrive\Desktop\receptionist+admin\ProiectIP\ProiectIP\bin\Debug\ProiectIP.exe
+C:\Users\Cami\OneDrive\Desktop\receptionist+admin\ProiectIP\ProiectIP\bin\Debug\ProiectIP.pdb
+C:\Users\Alina Bubulina\Desktop\Proiect IP\Cami\receptionist+admin\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+C:\Users\Alina Bubulina\Desktop\Proiect IP\Cami\receptionist+admin\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Camerista.resources
+C:\Users\Alina Bubulina\Desktop\Proiect IP\Cami\receptionist+admin\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Acasa.resources
+C:\Users\Alina Bubulina\Desktop\Proiect IP\Cami\receptionist+admin\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Admin.resources
+C:\Users\Alina Bubulina\Desktop\Proiect IP\Cami\receptionist+admin\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+C:\Users\Alina Bubulina\Desktop\Proiect IP\Cami\receptionist+admin\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Receptionera.resources
+C:\Users\Alina Bubulina\Desktop\Proiect IP\Cami\receptionist+admin\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+C:\Users\Alina Bubulina\Desktop\Proiect IP\Cami\receptionist+admin\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+C:\Users\Alina Bubulina\Desktop\Proiect IP\Cami\receptionist+admin\ProiectIP\ProiectIP\obj\Debug\ProiectIP.exe
+C:\Users\Alina Bubulina\Desktop\Proiect IP\Cami\receptionist+admin\ProiectIP\ProiectIP\obj\Debug\ProiectIP.pdb
+C:\Users\Alina Bubulina\Desktop\Proiect IP\Cami\receptionist+admin\ProiectIP\ProiectIP\bin\Debug\ProiectIP.exe.config
+C:\Users\Alina Bubulina\Desktop\Proiect IP\Cami\receptionist+admin\ProiectIP\ProiectIP\bin\Debug\ProiectIP.exe
+C:\Users\Alina Bubulina\Desktop\Proiect IP\Cami\receptionist+admin\ProiectIP\ProiectIP\bin\Debug\ProiectIP.pdb
+C:\Users\stefa\Desktop\Proiect IP\ProiectIP\bin\Debug\ProiectIP.exe.config
+C:\Users\stefa\Desktop\Proiect IP\ProiectIP\bin\Debug\ProiectIP.exe
+C:\Users\stefa\Desktop\Proiect IP\ProiectIP\bin\Debug\ProiectIP.pdb
+C:\Users\stefa\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+C:\Users\stefa\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Camerista.resources
+C:\Users\stefa\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Acasa.resources
+C:\Users\stefa\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Admin.resources
+C:\Users\stefa\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+C:\Users\stefa\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Receptionera.resources
+C:\Users\stefa\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+C:\Users\stefa\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.exe
+C:\Users\stefa\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod complet\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod complet\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Camerista.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod complet\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Acasa.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod complet\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Admin.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod complet\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod complet\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Receptionera.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod complet\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod complet\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod complet\Proiect IP\ProiectIP\obj\Debug\ProiectIP.exe
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod complet\Proiect IP\ProiectIP\obj\Debug\ProiectIP.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod complet\Proiect IP\ProiectIP\bin\Debug\ProiectIP.exe.config
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod complet\Proiect IP\ProiectIP\bin\Debug\ProiectIP.exe
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod complet\Proiect IP\ProiectIP\bin\Debug\ProiectIP.pdb
+C:\Users\Cami\OneDrive\Desktop\iftime\Proiect IP\ProiectIP\bin\Debug\ProiectIP.exe.config
+C:\Users\Cami\OneDrive\Desktop\iftime\Proiect IP\ProiectIP\bin\Debug\ProiectIP.exe
+C:\Users\Cami\OneDrive\Desktop\iftime\Proiect IP\ProiectIP\bin\Debug\ProiectIP.pdb
+C:\Users\Cami\OneDrive\Desktop\iftime\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+C:\Users\Cami\OneDrive\Desktop\iftime\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Camerista.resources
+C:\Users\Cami\OneDrive\Desktop\iftime\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Acasa.resources
+C:\Users\Cami\OneDrive\Desktop\iftime\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Admin.resources
+C:\Users\Cami\OneDrive\Desktop\iftime\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+C:\Users\Cami\OneDrive\Desktop\iftime\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Receptionera.resources
+C:\Users\Cami\OneDrive\Desktop\iftime\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+C:\Users\Cami\OneDrive\Desktop\iftime\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+C:\Users\Cami\OneDrive\Desktop\iftime\Proiect IP\ProiectIP\obj\Debug\ProiectIP.exe
+C:\Users\Cami\OneDrive\Desktop\iftime\Proiect IP\ProiectIP\obj\Debug\ProiectIP.pdb
+C:\Users\Cami\OneDrive\Desktop\iftime\update\ProiectIP\bin\Debug\ProiectIP.exe.config
+C:\Users\Cami\OneDrive\Desktop\iftime\update\ProiectIP\bin\Debug\ProiectIP.exe
+C:\Users\Cami\OneDrive\Desktop\iftime\update\ProiectIP\bin\Debug\ProiectIP.pdb
+C:\Users\Cami\OneDrive\Desktop\iftime\update\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+C:\Users\Cami\OneDrive\Desktop\iftime\update\ProiectIP\obj\Debug\ProiectIP.Camerista.resources
+C:\Users\Cami\OneDrive\Desktop\iftime\update\ProiectIP\obj\Debug\ProiectIP.Acasa.resources
+C:\Users\Cami\OneDrive\Desktop\iftime\update\ProiectIP\obj\Debug\ProiectIP.Admin.resources
+C:\Users\Cami\OneDrive\Desktop\iftime\update\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+C:\Users\Cami\OneDrive\Desktop\iftime\update\ProiectIP\obj\Debug\ProiectIP.Receptionera.resources
+C:\Users\Cami\OneDrive\Desktop\iftime\update\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+C:\Users\Cami\OneDrive\Desktop\iftime\update\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+C:\Users\Cami\OneDrive\Desktop\iftime\update\ProiectIP\obj\Debug\ProiectIP.exe
+C:\Users\Cami\OneDrive\Desktop\iftime\update\ProiectIP\obj\Debug\ProiectIP.pdb
+C:\Users\JOHN\Desktop\Proiect IP\ProiectIP\bin\Debug\ProiectIP.exe.config
+C:\Users\JOHN\Desktop\Proiect IP\ProiectIP\bin\Debug\ProiectIP.exe
+C:\Users\JOHN\Desktop\Proiect IP\ProiectIP\bin\Debug\ProiectIP.pdb
+C:\Users\JOHN\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csproj.AssemblyReference.cache
+C:\Users\JOHN\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Camerista.resources
+C:\Users\JOHN\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Acasa.resources
+C:\Users\JOHN\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Admin.resources
+C:\Users\JOHN\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+C:\Users\JOHN\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Receptionera.resources
+C:\Users\JOHN\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+C:\Users\JOHN\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+C:\Users\JOHN\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.exe
+C:\Users\JOHN\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.pdb
+C:\Users\JOHN\Desktop\Proiect IP\ProiectIP\bin\Debug\FunctiiDll.pdb
+C:\Users\JOHN\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csproj.CopyComplete
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Camerista.resources
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Acasa.resources
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Admin.resources
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Receptionera.resources
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.exe
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.pdb
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\ProiectIP\bin\Debug\ProiectIP.exe.config
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\ProiectIP\bin\Debug\ProiectIP.exe
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\ProiectIP\bin\Debug\ProiectIP.pdb
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\ProiectIP\bin\Debug\Cryptography.dll
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\ProiectIP\bin\Debug\FunctiiDll.dll
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\ProiectIP\bin\Debug\Cryptography.pdb
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\ProiectIP\bin\Debug\FunctiiDll.pdb
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csproj.CopyComplete
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\ProiectIP\bin\Debug\Angajat.dll
+C:\Users\Cami\OneDrive\Desktop\Proiect IP\ProiectIP\bin\Debug\Angajat.pdb
+C:\Users\JOHN\Desktop\Proiect IP\ProiectIP\bin\Debug\Angajat.dll
+C:\Users\JOHN\Desktop\Proiect IP\ProiectIP\bin\Debug\FunctiiDll.dll
+C:\Users\JOHN\Desktop\Proiect IP\ProiectIP\bin\Debug\Angajat.pdb
+C:\Users\JOHN\Desktop\Proiect IP\ProiectIP\bin\Debug\Cryptography.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ProiectIP\bin\Debug\ProiectIP.exe.config
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ProiectIP\bin\Debug\ProiectIP.exe
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ProiectIP\bin\Debug\ProiectIP.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ProiectIP\bin\Debug\Angajat.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ProiectIP\bin\Debug\FunctiiDll.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ProiectIP\bin\Debug\Angajat.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ProiectIP\bin\Debug\Cryptography.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ProiectIP\bin\Debug\FunctiiDll.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Camerista.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Acasa.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Admin.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Receptionera.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csproj.CopyComplete
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ProiectIP\obj\Debug\ProiectIP.exe
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Ora20_00\Proiect IP\ProiectIP\obj\Debug\ProiectIP.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ProiectIP\bin\Debug\ProiectIP.exe.config
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ProiectIP\bin\Debug\ProiectIP.exe
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ProiectIP\bin\Debug\ProiectIP.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ProiectIP\bin\Debug\Angajat.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ProiectIP\bin\Debug\FunctiiDll.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ProiectIP\bin\Debug\Angajat.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ProiectIP\bin\Debug\Cryptography.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ProiectIP\bin\Debug\FunctiiDll.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Camerista.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Acasa.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Admin.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Receptionera.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csproj.CopyComplete
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ProiectIP\obj\Debug\ProiectIP.exe
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\Proiect IP\ProiectIP\obj\Debug\ProiectIP.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIpOra23_45\ProiectIP\bin\Debug\ProiectIP.exe.config
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIpOra23_45\ProiectIP\bin\Debug\ProiectIP.exe
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIpOra23_45\ProiectIP\bin\Debug\ProiectIP.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIpOra23_45\ProiectIP\bin\Debug\Angajat.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIpOra23_45\ProiectIP\bin\Debug\FunctiiDll.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIpOra23_45\ProiectIP\bin\Debug\Angajat.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIpOra23_45\ProiectIP\bin\Debug\Cryptography.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIpOra23_45\ProiectIP\bin\Debug\FunctiiDll.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIpOra23_45\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIpOra23_45\ProiectIP\obj\Debug\ProiectIP.Camerista.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIpOra23_45\ProiectIP\obj\Debug\ProiectIP.Acasa.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIpOra23_45\ProiectIP\obj\Debug\ProiectIP.Admin.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIpOra23_45\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIpOra23_45\ProiectIP\obj\Debug\ProiectIP.Receptionera.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIpOra23_45\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIpOra23_45\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIpOra23_45\ProiectIP\obj\Debug\ProiectIP.csproj.CopyComplete
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIpOra23_45\ProiectIP\obj\Debug\ProiectIP.exe
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\ProiectIpOra23_45\ProiectIP\obj\Debug\ProiectIP.pdb
+C:\Users\stefa\Downloads\ProiectIpOra23_45\ProiectIpOra23_45\ProiectIP\bin\Debug\ProiectIP.exe.config
+C:\Users\stefa\Downloads\ProiectIpOra23_45\ProiectIpOra23_45\ProiectIP\bin\Debug\ProiectIP.exe
+C:\Users\stefa\Downloads\ProiectIpOra23_45\ProiectIpOra23_45\ProiectIP\bin\Debug\ProiectIP.pdb
+C:\Users\stefa\Downloads\ProiectIpOra23_45\ProiectIpOra23_45\ProiectIP\bin\Debug\Angajat.dll
+C:\Users\stefa\Downloads\ProiectIpOra23_45\ProiectIpOra23_45\ProiectIP\bin\Debug\FunctiiDll.dll
+C:\Users\stefa\Downloads\ProiectIpOra23_45\ProiectIpOra23_45\ProiectIP\bin\Debug\Angajat.pdb
+C:\Users\stefa\Downloads\ProiectIpOra23_45\ProiectIpOra23_45\ProiectIP\bin\Debug\Cryptography.pdb
+C:\Users\stefa\Downloads\ProiectIpOra23_45\ProiectIpOra23_45\ProiectIP\bin\Debug\FunctiiDll.pdb
+C:\Users\stefa\Downloads\ProiectIpOra23_45\ProiectIpOra23_45\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+C:\Users\stefa\Downloads\ProiectIpOra23_45\ProiectIpOra23_45\ProiectIP\obj\Debug\ProiectIP.Camerista.resources
+C:\Users\stefa\Downloads\ProiectIpOra23_45\ProiectIpOra23_45\ProiectIP\obj\Debug\ProiectIP.Acasa.resources
+C:\Users\stefa\Downloads\ProiectIpOra23_45\ProiectIpOra23_45\ProiectIP\obj\Debug\ProiectIP.Admin.resources
+C:\Users\stefa\Downloads\ProiectIpOra23_45\ProiectIpOra23_45\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+C:\Users\stefa\Downloads\ProiectIpOra23_45\ProiectIpOra23_45\ProiectIP\obj\Debug\ProiectIP.Receptionera.resources
+C:\Users\stefa\Downloads\ProiectIpOra23_45\ProiectIpOra23_45\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+C:\Users\stefa\Downloads\ProiectIpOra23_45\ProiectIpOra23_45\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Downloads\ProiectIpOra23_45\ProiectIpOra23_45\ProiectIP\obj\Debug\ProiectIP.csproj.CopyComplete
+C:\Users\stefa\Downloads\ProiectIpOra23_45\ProiectIpOra23_45\ProiectIP\obj\Debug\ProiectIP.exe
+C:\Users\stefa\Downloads\ProiectIpOra23_45\ProiectIpOra23_45\ProiectIP\obj\Debug\ProiectIP.pdb
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ProiectIP\bin\Debug\ProiectIP.exe.config
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ProiectIP\bin\Debug\ProiectIP.exe
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ProiectIP\bin\Debug\ProiectIP.pdb
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ProiectIP\bin\Debug\Angajat.dll
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ProiectIP\bin\Debug\FunctiiDll.dll
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ProiectIP\bin\Debug\Angajat.pdb
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ProiectIP\bin\Debug\Cryptography.pdb
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ProiectIP\bin\Debug\FunctiiDll.pdb
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Camerista.resources
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Acasa.resources
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Admin.resources
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ProiectIP\obj\Debug\ProiectIP.Receptionera.resources
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ProiectIP\obj\Debug\ProiectIP.csproj.CopyComplete
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ProiectIP\obj\Debug\ProiectIP.exe
+C:\Users\stefa\Desktop\Proiect IP\Proiect IP\ProiectIP\obj\Debug\ProiectIP.pdb
+D:\downloads\final\ProiectIP\bin\Debug\ProiectIP.exe.config
+D:\downloads\final\ProiectIP\bin\Debug\ProiectIP.exe
+D:\downloads\final\ProiectIP\bin\Debug\ProiectIP.pdb
+D:\downloads\final\ProiectIP\bin\Debug\Angajat.dll
+D:\downloads\final\ProiectIP\bin\Debug\FunctiiDll.dll
+D:\downloads\final\ProiectIP\bin\Debug\Angajat.pdb
+D:\downloads\final\ProiectIP\bin\Debug\Cryptography.pdb
+D:\downloads\final\ProiectIP\bin\Debug\FunctiiDll.pdb
+D:\downloads\final\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+D:\downloads\final\ProiectIP\obj\Debug\ProiectIP.Camerista.resources
+D:\downloads\final\ProiectIP\obj\Debug\ProiectIP.Acasa.resources
+D:\downloads\final\ProiectIP\obj\Debug\ProiectIP.Admin.resources
+D:\downloads\final\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+D:\downloads\final\ProiectIP\obj\Debug\ProiectIP.Receptionera.resources
+D:\downloads\final\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+D:\downloads\final\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+D:\downloads\final\ProiectIP\obj\Debug\ProiectIP.csproj.CopyComplete
+D:\downloads\final\ProiectIP\obj\Debug\ProiectIP.exe
+D:\downloads\final\ProiectIP\obj\Debug\ProiectIP.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ProiectIP\bin\Debug\ProiectIP.exe.config
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ProiectIP\bin\Debug\ProiectIP.exe
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ProiectIP\bin\Debug\ProiectIP.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ProiectIP\bin\Debug\Angajat.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ProiectIP\bin\Debug\FunctiiDll.dll
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ProiectIP\bin\Debug\Angajat.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ProiectIP\bin\Debug\Cryptography.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ProiectIP\bin\Debug\FunctiiDll.pdb
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ProiectIP\obj\Debug\ProiectIP.Camerista.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ProiectIP\obj\Debug\ProiectIP.Acasa.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ProiectIP\obj\Debug\ProiectIP.Admin.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ProiectIP\obj\Debug\ProiectIP.Receptionera.resources
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ProiectIP\obj\Debug\ProiectIP.csproj.CopyComplete
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ProiectIP\obj\Debug\ProiectIP.exe
+D:\facultate_an_3_sem2\Proiect Ip\cod c#\cod final\Proiect_Bizgan_Iftime_Modiga_Stefan\ProiectIP\obj\Debug\ProiectIP.pdb
